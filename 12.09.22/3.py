@@ -8,6 +8,7 @@ elif price1>price2>price3:
     print('Акция!') or print(price//3)
 else:
     print(price)
+
     
 
 
