@@ -1,0 +1,10 @@
+a=int(input())
+b=int(input())
+c=int(input())
+f=sum([a,b,c])
+q=max([a,b,c])
+o=min([a,b,c])
+print(f)
+print(q)
+print(o)
+
