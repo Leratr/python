@@ -8,3 +8,4 @@ while name_game !=0:
     name_game=input()
 game_list.sort()
 print(game_list)
+game_list
